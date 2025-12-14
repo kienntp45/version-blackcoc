@@ -1,1 +1,6 @@
-ECHO is on.
+<item>
+	<version>1.0.0.0</version>
+	<url>https://raw.githubusercontent.com/.../TocBlack.zip</url>
+	<changelog>https://raw.githubusercontent.com/.../changelog.html</changelog>
+	<mandatory>false</mandatory>
+</item>
