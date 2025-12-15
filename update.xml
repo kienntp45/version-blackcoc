@@ -1,6 +1,11 @@
 <item>
+<<<<<<< HEAD
 	<version>1.0.0.7</version>
 	<url>https://github.com/kienntp45/version-blackcoc/raw/main/TocBlack.zip</url>
+=======
+	<version>1.0.0.5</version>
+	<url>https://drive.google.com/file/d/1zzf13c2pe4GWbJzTlTd3m9z0MuRno9Pd/view?usp=sharing</url>
+>>>>>>> 44f8ac4289d265bee87204bfbc6cd9d6439855df
 	<!-- <changelog>https://raw.githubusercontent.com/.../changelog.html</changelog> -->
 	<mandatory>true</mandatory>
 </item>
